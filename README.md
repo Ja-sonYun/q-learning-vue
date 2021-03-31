@@ -1,4 +1,4 @@
-# q-learning-vue
+# simple-q-learning-js
 Q(state, action) = R(state, action) + y*Max[Q(next state, all actions)]  
 implemented here -> https://abex.dev/ms/ml/qlearning
 
