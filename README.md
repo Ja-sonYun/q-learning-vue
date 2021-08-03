@@ -8,4 +8,3 @@ implemented here -> https://abex.dev/ms/ml/qlearning
 ## result
 <img src="https://github.com/Ja-sonYun/q-learning-vue/blob/main/gifs/result.gif?raw=true" height="240">  
 
-~~wrote this code almost 2 years ago~~
